@@ -58,4 +58,4 @@ Aplikasi Bank Sampah adalah aplikasi yang dirancang untuk mempermudah pengelolaa
 1. Clone repositori ini:
 
    ```bash
-   git clone (https://github.com/YuTo26/MyApplication.git)
+   git clone (https://github.com/YuTo26/NabungSampah.git)
