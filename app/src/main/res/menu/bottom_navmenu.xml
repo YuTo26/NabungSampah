@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Dashboard"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/home"/>
+    <item
+        android:title="Riwayat"
+        android:icon="@drawable/baseline_history_24"
+        android:id="@+id/history"/>
+    <item
+        android:title="Penukaran"
+        android:icon="@drawable/baseline_currency_exchange_24"
+        android:id="@+id/balance"/>
+    <item
+        android:title="Profil Akun"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:id="@+id/profile"/>
+</menu>
